@@ -1,0 +1,19 @@
+{
+  "name": "js_modules",
+  "version": "1.0.0",
+  "description": "practice to use webpack to bundle js modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smalltide/js_modules.git"
+  },
+  "author": "ice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smalltide/js_modules/issues"
+  },
+  "homepage": "https://github.com/smalltide/js_modules#readme"
+}
