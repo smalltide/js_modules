@@ -9,6 +9,8 @@ practice to use webpack to bundle js modules
 4. css-loader
 5. style-loader
 6. extract-text-webpack-plugin
+7. image-webpack-loader
+8. url-loader
 
 ```
   > git clone git@github.com:smalltide/js_modules.git
@@ -18,5 +20,6 @@ practice to use webpack to bundle js modules
   > npm install --save-dev babel-loader babel-core babel-preset-env
   > npm install --save-dev style-loader css-loader
   > npm install --save-dev extract-text-webpack-plugin@2.0.0-beta.4
+  > npm install --save-dev image-webpack-loader url-loader
   > npm run bulid
 ```
