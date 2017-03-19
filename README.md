@@ -11,4 +11,5 @@ practice to use webpack to bundle js modules
   > cd js_modules
   > npm init
   > npm install --save-dev webpack@2.2.0-rc.0
+  > npm run bulid
 ```
