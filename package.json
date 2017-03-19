@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/smalltide/js_modules/issues"
   },
-  "homepage": "https://github.com/smalltide/js_modules#readme"
+  "homepage": "https://github.com/smalltide/js_modules#readme",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.0"
+  }
 }

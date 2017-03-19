@@ -10,5 +10,5 @@ practice to use webpack to bundle js modules
   > git clone git@github.com:smalltide/js_modules.git
   > cd js_modules
   > npm init
-
+  > npm install --save-dev webpack@2.2.0-rc.0
 ```
