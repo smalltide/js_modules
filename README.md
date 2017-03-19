@@ -1,7 +1,7 @@
 # js_modules
 practice to use webpack to bundle js modules
 
-![alt text](https://github.com/smalltide/js_modules/blob/master/screenshot.gif "js_modules")
+![alt text](https://github.com/smalltide/js_modules/blob/master/screenshot.png "js_modules")
 
 1. webpack
 2. npm
