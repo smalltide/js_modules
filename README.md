@@ -12,5 +12,6 @@ practice to use webpack to bundle js modules
   > npm init
   > npm install --save-dev webpack@2.2.0-rc.0
   > npm install --save-dev babel-loader babel-core babel-preset-env
+  > npm install --save-dev style-loader css-loader
   > npm run bulid
 ```
