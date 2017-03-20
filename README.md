@@ -1,5 +1,5 @@
 # js_modules
-practice to use webpack to bundle js modules
+practice to use webpack to bundle javascript, css and image
 
 ![alt text](https://github.com/smalltide/js_modules/blob/master/screenshot.png "js_modules")
 
